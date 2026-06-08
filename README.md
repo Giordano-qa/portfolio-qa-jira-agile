@@ -15,6 +15,9 @@ No primeiro cenário, simulei a atuação de um QA inserido em um time utilizand
 * **Planejamento de Testes:** Elaboração de Cenários de Teste (Cenários Positivos e Negativos) para a funcionalidade de Login.
 * **Execução e Fechamento:** Ativação e gerenciamento do ciclo de vida de uma Sprint até a entrega dos cartões em "Feito".
 
+### 📸 Evidência do Quadro Scrum:
+![Painel Scrum](scrum.png)
+
 ---
 
 ## 📈 Projeto 2: Metodologia Kanban (Fluxo Contínuo)
@@ -24,6 +27,9 @@ No segundo cenário, montei um quadro **Kanban** dinâmico para analisar a difer
 ### Diferenciais Práticos Experimentados:
 * **Fluxo Imediato:** Compreensão do conceito onde os itens criados entram direto na coluna "A Fazer", sem a necessidade de um Backlog separado.
 * **Gerenciamento de WIP (Work in Progress):** Aplicação de limites de trabalho em andamento para evitar gargalos nas colunas produtivas.
+
+### 📸 Evidência do Quadro Kanban:
+![Painel Kanban](kanban.png)
 
 ---
 
